@@ -1,0 +1,1 @@
+#### TypeScript - strong-typed language. 
