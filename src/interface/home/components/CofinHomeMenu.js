@@ -32,6 +32,7 @@ const CofinHomeMenu = () => (
                     <Ultyp type='none' class="sub">
                         <Lisub><a href="News">뉴스</a></Lisub>
                         <Lisub><a href="MessagePage">알림문자</a></Lisub>
+                        <Lisub><a href="MedPoint">선별진료소</a></Lisub>
                     </Ultyp>
                 </Li>
                 <Li class='group'>
