@@ -5,7 +5,7 @@ import VaccineResult from '../pages/VaccineResult'
 
 const Next=()=>{
     return(<>
-        <VButton><Link to = "Result">결과보기</Link></VButton>
+        <VButton><Link to = "VaccineResult">결과보기</Link></VButton>
     </>)
 }
 export default Next
